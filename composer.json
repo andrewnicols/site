@@ -13,32 +13,8 @@
   "minimum-stability": "dev",
   "repositories": [
     {
-      "type": "vcs",
-      "url": "https://github.com/andrewnicols/installers"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/andrewnicols/core-composer-scaffold"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/andrewnicols/composedmoodle"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/andrewnicols/moodle-availability_stash"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/andrewnicols/moodle-block_stash"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/andrewnicols/moodle-filter_stash"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/andrewnicols/moodle-mod_customcert"
+          "type": "composer",
+          "url": "https://packages.mymoodle.dev"
     }
   ],
   "config": {
