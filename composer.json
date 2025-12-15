@@ -10,11 +10,14 @@
     "abgreeve/moodle-block_stash": "dev-composed",
     "mdjnelson/moodle-mod_customcert": "dev-composed"
   },
+  "extra": {
+    "install-path": "moodle/"
+  },
   "minimum-stability": "dev",
   "repositories": [
     {
-          "type": "composer",
-          "url": "https://packages.mymoodle.dev"
+      "type": "composer",
+      "url": "https://packages.mymoodle.dev"
     }
   ],
   "config": {
