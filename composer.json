@@ -5,10 +5,7 @@
   "require": {
     "composer/installers": "dev-moodlecomposed",
     "moodle/core-composer-scaffold": "dev-main",
-    "moodle/moodle": "dev-composed",
-    "fmcorz/moodle-block_xp": "^19.0",
-    "abgreeve/moodle-block_stash": "dev-composed",
-    "mdjnelson/moodle-mod_customcert": "dev-composed"
+    "moodle/moodle": "dev-composed"
   },
   "extra": {
     "install-path": "moodle/"
