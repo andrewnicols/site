@@ -3,7 +3,7 @@
   "description": "Project Template to create a new Moodle Site",
   "type": "project",
   "require": {
-    "composer/installers": "dev-moodlePathFromJson",
+    "composer/installers": "dev-moodlecomposed",
     "moodle/core-composer-scaffold": "dev-main",
     "moodle/moodle": "dev-composed",
     "fmcorz/moodle-block_xp": "^19.0",
