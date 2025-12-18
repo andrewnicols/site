@@ -5,7 +5,7 @@
   "require": {
     "moodle/composer-installer": "^1",
     "moodle/moodle-composer-scaffold": "dev-main",
-    "moodle/moodle": "dev-composed"
+    "moodle/moodle": "^5.1"
   },
   "extra": {
     "install-path": "moodle/"
