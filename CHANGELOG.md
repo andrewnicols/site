@@ -7,6 +7,8 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 ## [Unreleased]
 
+## [0.3.1] - 2025-12-18
+
 ### Fixed
 
 - Add gitattributes to ignore certain files from distribution.
