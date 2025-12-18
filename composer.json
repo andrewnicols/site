@@ -1,16 +1,15 @@
 {
-  "name": "moodle/site",
-  "description": "Project Template to create a new Moodle Site",
+  "name": "moodle/seed",
+  "description": "A Composer project template to seed a new Moodle Site",
   "type": "project",
   "require": {
-    "moodle/composer-installer": "dev-main",
+    "moodle/composer-installer": "^1",
     "moodle/core-composer-scaffold": "dev-main",
     "moodle/moodle": "dev-composed"
   },
   "extra": {
     "install-path": "moodle/"
   },
-  "minimum-stability": "dev",
   "repositories": [
     {
       "type": "composer",
