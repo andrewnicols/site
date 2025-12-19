@@ -7,6 +7,12 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 ## [Unreleased]
 
+## [0.4.0] - 2025-12-19
+
+### Changed
+
+- Use a minimum version of Moodle (^5.1).
+
 ## [0.3.1] - 2025-12-18
 
 ### Fixed
