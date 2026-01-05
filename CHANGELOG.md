@@ -12,6 +12,10 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 - Include cweagans/composer-patches as a default dependency
 - Provide default `.gitignore`
 
+## Changed
+
+- Switch to released version of `moodle/moodle-composer-scaffold`.
+
 ## [0.4.0] - 2025-12-19
 
 ### Changed
