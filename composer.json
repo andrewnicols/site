@@ -5,7 +5,8 @@
   "require": {
     "moodle/composer-installer": "^1",
     "moodle/moodle-composer-scaffold": "dev-main",
-    "moodle/moodle": "^5.1"
+    "moodle/moodle": "^5.1",
+    "cweagans/composer-patches": "^2"
   },
   "extra": {
     "install-path": "moodle/"

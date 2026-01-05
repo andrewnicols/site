@@ -7,6 +7,10 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 ## [Unreleased]
 
+## Added
+
+- Include cweagans/composer-patches as a default dependency
+
 ## [0.4.0] - 2025-12-19
 
 ### Changed
