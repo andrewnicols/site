@@ -4,7 +4,7 @@
   "type": "project",
   "require": {
     "moodle/composer-installer": "^1",
-    "moodle/moodle-composer-scaffold": "^0.1",
+    "moodle/moodle-composer-scaffold": "^0.2",
     "moodle/moodle": "^5.1",
     "cweagans/composer-patches": "^2"
   },
