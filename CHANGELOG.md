@@ -7,6 +7,14 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 ## [Unreleased]
 
+## Added
+
+- Ignore the `/testdata` directory.
+
+## Changed
+
+- Correct paths for ignored directories.
+
 ## [1.0.0] - 2026-01-06
 
 ## Added
