@@ -19,3 +19,6 @@
 
 # Test coverage should not be included.
 /coverage
+
+# Do not commit composer auth files.
+auth.json
