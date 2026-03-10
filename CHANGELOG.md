@@ -18,6 +18,7 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 ### Removed
 
 - Removed unnecessary Moodle installation path
+- Removed unused `cweagans/composer-patches` plugin approval
 
 ## [1.0.3] - 2026-01-16
 
