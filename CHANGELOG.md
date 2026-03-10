@@ -7,6 +7,8 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 ## [Unreleased]
 
+## [2.0.0] - 2026-03-10
+
 ### Added
 
 - Allow 'insecure' packages (required for Moodle Composer transition).
