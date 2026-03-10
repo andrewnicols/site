@@ -7,9 +7,6 @@
     "moodle/moodle-composer-scaffold": "^1",
     "moodle/moodle": "^5.1"
   },
-  "extra": {
-    "install-path": "moodle/"
-  },
   "repositories": [
     {
       "name": "Moodle Package Repository",

@@ -15,6 +15,10 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 - Switch to https://moodle.org repository.
 
+### Removed
+
+- Removed unnecessary Moodle installation path
+
 ## [1.0.3] - 2026-01-16
 
 ### Changed
