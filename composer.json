@@ -12,8 +12,9 @@
   },
   "repositories": [
     {
+      "name": "Moodle Package Repository",
       "type": "composer",
-      "url": "https://packages.mymoodle.dev"
+      "url": "https://moodle.org"
     }
   ],
   "config": {

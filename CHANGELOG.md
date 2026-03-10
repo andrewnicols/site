@@ -7,6 +7,10 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 ## [Unreleased]
 
+### Changed
+
+- Switch to https://moodle.org repository.
+
 ## [1.0.3] - 2026-01-16
 
 ### Changed
