@@ -7,6 +7,10 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 ## [Unreleased]
 
+### Added
+
+- Allow 'insecure' packages (required for Moodle Composer transition).
+
 ### Changed
 
 - Switch to https://moodle.org repository.

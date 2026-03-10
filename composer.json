@@ -22,6 +22,9 @@
       "moodle/composer-installer": true,
       "cweagans/composer-patches": true,
       "moodle/moodle-composer-scaffold": true
+    },
+    "audit": {
+      "block-insecure": false
     }
   }
 }
