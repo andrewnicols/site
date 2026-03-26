@@ -7,6 +7,11 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 ## [Unreleased]
 
+### Changed
+
+- Unpin versions for `moodle/composer-installer` and
+  `moodle/moodle-composer-scaffold`.
+
 ## [2.0.0] - 2026-03-10
 
 ### Added
