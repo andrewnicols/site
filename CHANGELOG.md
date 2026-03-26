@@ -7,6 +7,8 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 ## [Unreleased]
 
+## [2.0.1] - 2026-03-26
+
 ### Changed
 
 - Unpin versions for `moodle/composer-installer` and
